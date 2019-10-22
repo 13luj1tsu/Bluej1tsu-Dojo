@@ -1,2 +1,3 @@
-# Bluej1tsu-Dojo
-Playground
+< ?php
+echo "Hello git";
+?>
